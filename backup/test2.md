@@ -23,7 +23,7 @@ _斜体字_
 - 无序![coinify](https://github.com/nacrit/nacrt.github.io/assets/40764351/1b99a293-0921-49b9-9342-d74ce021c499)
 - 无2
 
-- [x] task list1
+- [ ] task list1
 - [x] task list2
 
 <details><summary>Details......</summary>
